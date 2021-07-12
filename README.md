@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aXhmed
+- 👋 Hi, I’m Ahmed Dahmeni
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on javascript projects
